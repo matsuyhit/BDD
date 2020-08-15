@@ -28,3 +28,23 @@ First 10 from the front and the other 10 from the back as shown in the pictures 
 
 From each performance video, body parts (keypoints) location data per a frame in video are obtained using [Open Pose](https://github.com/CMU-Perceptual-Computing-Lab/openpose).
 
+# Citation
+When you use the dataset, please cite the paper below:
+```
+@inproceedings{10.1145/3341162.3344852,
+author = {Matsuyama, Hitoshi and Hiroi, Kei and Kaji, Katsuhiko and Yonezawa, Takuro and Kawaguchi, Nobuo},
+title = {Ballroom Dance Step Type Recognition by Random Forest Using Video and Wearable Sensor},
+year = {2019},
+isbn = {9781450368698},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3341162.3344852},
+doi = {10.1145/3341162.3344852},
+booktitle = {Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers},
+pages = {774–780},
+numpages = {7},
+keywords = {datasets, signal processing, machine learning},
+location = {London, United Kingdom},
+series = {UbiComp/ISWC ’19 Adjunct}
+}
+```
