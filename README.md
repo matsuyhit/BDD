@@ -7,7 +7,7 @@ There are 13 types of ballroom dance figures in our performance data: Open Basic
 ![13steps](https://user-images.githubusercontent.com/50951418/90306956-3bdb0600-df0d-11ea-9efd-33a18e0e60e3.png)
 
 # Downloads
-You can download the files from [our website](hub.hasc.jp). **You can use the dataset for research purposes only.**
+You can download the files from [our website](http://hub.hasc.jp/menu). **You can use the dataset for research purposes only.**
 
 # Wearable sensor
 ## Size: 293 MB, Number of csv files: 7 dancers x 20 times x 6 wearable sensors = 840
