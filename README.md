@@ -20,7 +20,12 @@ There are six CSV files for each one dance performance: Left ankle, right ankle,
 We shot 20 times for each dancer's performance by the high speed camera(FPS: 120).
 First 10 from the front and the other 10 from the back as shown in the pictures above. The picture below shows the contents in "video/dancer1/" as an example.
 
+### Directions of video
 ![datacollection](https://user-images.githubusercontent.com/50951418/90306972-54e3b700-df0d-11ea-8a73-0990114a7beb.png)
+
+### Directory example
+<img width="563" alt="スクリーンショット 2020-08-25 18 20 48" src="https://user-images.githubusercontent.com/50951418/91157552-70667300-e700-11ea-9605-f0c6712d39e0.png">
+
 
 # Keypoints
 ## Size: 4 GB, Number of folders: 7 dancers x 20 times = 140 (Each folder includes json files as many as the corresponding video frame)
