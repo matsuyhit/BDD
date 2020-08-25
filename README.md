@@ -9,6 +9,14 @@ There are 13 types of ballroom dance figures in our performance data: Open Basic
 # Downloads
 You can download the files from [our website](http://hub.hasc.jp/menu). **You can use the dataset for research purposes only.**
 
+## Contents
+- csv_verxx.zip: csv files which contains wearable sensor and keypoint data
+- keypoints_verxx.zip: keypoint data obtained using OpenPose
+- video_verxx.zip: video data which contains 7 dancers/ 2.5 hours of record
+- video_labels_verxx.zip: label data for each record corresponds to the video data
+- wearable_sensor_verxx.zip: wearable sensor data attached on the six body points(right and left arms, hips, and ankles).
+- sample_verxx.zip: samples of dance performance (the size of which is much smaller)
+
 # Wearable sensor
 ## Size: 293 MB, Number of csv files: 7 dancers x 20 times x 6 wearable sensors = 840
 CSV file that contains the time variation data of accelerometer and gyroscope sampled in 120 Hz.
