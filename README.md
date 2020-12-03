@@ -43,15 +43,11 @@ From each performance video, body parts (keypoints) location data per a frame of
 # Citation
 When you use the dataset, please cite the paper below:
 ```
-(In press)
 @INPROCEEDINGS{hitoshiabc2020,
   author={H. {Matsuyama} and K. {Hiroi} and K. {Kaji} and T. {Yonezawa} and N. {Kawaguchi}},
-  booktitle={2020 Joint 9th International Conference on Informatics, Electronics   Vision (ICIEV) and 2020 4th International Conference on Imaging, Vision   Pattern Recognition (icIVPR)}, 
+  booktitle={Proceedings of the 2020 Joint 9th International Conference on Informatics, Electronics   Vision (ICIEV) and 2020 4th International Conference on Imaging, Vision   Pattern Recognition (icIVPR)}, 
   title={A Basic Study on Ballroom Dance Figure Classification with LSTM using Multi-modal Sensor}, 
   year={2020},
-  volume={},
-  number={},
-  pages={},}
 ```
 
 ```
