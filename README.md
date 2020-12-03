@@ -8,6 +8,8 @@ There are 13 types of ballroom dance figures in our performance data: Open Basic
 
 # Downloads
 You can download the files from [our website](http://hub.hasc.jp/menu). **You can use the dataset for research purposes only.**
+A sample video without music is available on YouTube: https://youtu.be/SV607W_ofGE
+Label information is only annotated to the sample video on YouTube for easy understanding. 
 
 ## Contents
 - csv_verxx.zip: csv files which contains wearable sensor and keypoint data
