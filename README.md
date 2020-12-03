@@ -8,7 +8,7 @@ There are 13 types of ballroom dance figures in our performance data: Open Basic
 
 # Downloads
 You can download the files from [our website](http://hub.hasc.jp/menu). **You can use the dataset for research purposes only.**
-A sample video without music is available on YouTube: https://youtu.be/SV607W_ofGE
+A sample video without music is available on YouTube: https://youtu.be/SV607W_ofGE  
 Label information is only annotated to the sample video on YouTube for easy understanding. 
 
 ## Contents
@@ -50,6 +50,7 @@ When you use the dataset, please cite the paper below:
   booktitle={Proceedings of the 2020 Joint 9th International Conference on Informatics, Electronics   Vision (ICIEV) and 2020 4th International Conference on Imaging, Vision   Pattern Recognition (icIVPR)}, 
   title={A Basic Study on Ballroom Dance Figure Classification with LSTM using Multi-modal Sensor}, 
   year={2020},
+  }
 ```
 
 ```
